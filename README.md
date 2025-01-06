@@ -1,4 +1,4 @@
-This project is a travel-focused chatbot named GlobeGuru built using Python, Natural Language Processing (NLP), and the Streamlit framework. Here's a detailed explanation of its components and functionality:
+This project is a travel-focused chatbot named Let's travel the world built using Python, Natural Language Processing (NLP), and the Streamlit framework. Here's a detailed explanation of its components and functionality:
 
 **🔍 How It Works**
 User Interaction:
